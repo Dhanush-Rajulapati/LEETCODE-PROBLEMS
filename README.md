@@ -33,4 +33,12 @@
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0129-sum-root-to-leaf-numbers) |
+## Math
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2523-closest-prime-numbers-in-range) |
+## Number Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
