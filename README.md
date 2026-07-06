@@ -19,10 +19,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0198-house-robber](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0198-house-robber) |
+| [0845-longest-mountain-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0845-longest-mountain-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0198-house-robber) |
+| [0845-longest-mountain-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0845-longest-mountain-in-array) |
 ## Tree
 |  |
 | ------- |
@@ -43,4 +45,12 @@
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2523-closest-prime-numbers-in-range) |
+## Two Pointers
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0845-longest-mountain-in-array) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
