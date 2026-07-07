@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2523-closest-prime-numbers-in-range) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Number Theory
 |  |
 | ------- |
