@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0198-house-robber](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0198-house-robber) |
+| [0496-next-greater-element-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0845-longest-mountain-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0845-longest-mountain-in-array) |
 ## Dynamic Programming
 |  |
@@ -59,4 +61,12 @@
 |  |
 | ------- |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2075-decode-the-slanted-ciphertext) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
