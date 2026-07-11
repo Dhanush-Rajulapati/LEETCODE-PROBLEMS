@@ -40,6 +40,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2685-count-the-number-of-complete-components](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2685-count-the-number-of-complete-components](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
 ## Linked List
 |  |
 | ------- |
@@ -92,4 +94,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0002-add-two-numbers) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
