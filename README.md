@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0845-longest-mountain-in-array) |
+| [1291-sequential-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1291-sequential-digits) |
 ## Simulation
 |  |
 | ------- |
