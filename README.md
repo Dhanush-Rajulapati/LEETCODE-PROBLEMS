@@ -70,6 +70,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2523-closest-prime-numbers-in-range) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -145,6 +146,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0769-max-chunks-to-make-sorted) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
