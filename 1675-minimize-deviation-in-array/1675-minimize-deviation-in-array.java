@@ -15,13 +15,13 @@ class Solution {
         int res = Integer.MAX_VALUE;
         while(true) {
             int max = q.remove();
-            res = Math.min(res,Math.abs(max-min));
+            res = Math.min(res,max-min);
 
             if((max & 1) == 1) {
                 break;
             }
 
-            max = max/2;
+            max >>= 1;
             q.add(max);
             if(min > max) {
                 min = max;
