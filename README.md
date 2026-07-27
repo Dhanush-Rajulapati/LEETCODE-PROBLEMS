@@ -17,6 +17,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
+| [1332-remove-palindromic-subsequences](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1332-remove-palindromic-subsequences) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0845-longest-mountain-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0845-longest-mountain-in-array) |
+| [1332-remove-palindromic-subsequences](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1332-remove-palindromic-subsequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
