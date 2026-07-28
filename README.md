@@ -22,6 +22,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [1675-minimize-deviation-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1675-minimize-deviation-in-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
