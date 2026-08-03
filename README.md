@@ -39,6 +39,7 @@
 | [0001-two-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0769-max-chunks-to-make-sorted) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0300-longest-increasing-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1406-stone-game-iii) |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0300-longest-increasing-subsequence](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0300-longest-increasing-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -235,4 +238,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1406-stone-game-iii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
