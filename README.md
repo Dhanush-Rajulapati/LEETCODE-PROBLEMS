@@ -51,6 +51,7 @@
 | [1406-stone-game-iii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1675-minimize-deviation-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1675-minimize-deviation-in-array) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2012-sum-of-beauty-in-the-array) |
 | [3452-sum-of-good-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3452-sum-of-good-numbers) |
@@ -66,6 +67,7 @@
 | [0845-longest-mountain-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1406-stone-game-iii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Tree
 |  |
 | ------- |
