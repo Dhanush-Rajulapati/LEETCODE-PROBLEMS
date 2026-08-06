@@ -99,6 +99,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2523-closest-prime-numbers-in-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3648-minimum-sensors-to-cover-grid) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3765-complete-prime-number](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3765-complete-prime-number) |
 ## Simulation
