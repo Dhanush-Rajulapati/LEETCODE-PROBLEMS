@@ -11,6 +11,7 @@
 | [0496-next-greater-element-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1711-count-good-meals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1711-count-good-meals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3412-find-mirror-score-of-a-string) |
 | [3731-find-missing-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3731-find-missing-elements) |
@@ -53,6 +54,7 @@
 | [1406-stone-game-iii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1675-minimize-deviation-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1675-minimize-deviation-in-array) |
+| [1711-count-good-meals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1711-count-good-meals) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2012-sum-of-beauty-in-the-array) |
