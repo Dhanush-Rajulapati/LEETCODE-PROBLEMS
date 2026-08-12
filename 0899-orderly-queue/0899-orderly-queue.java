@@ -8,7 +8,7 @@ class Solution {
         String res = s;
         for(int i=1;i<s.length();i++) {
             String temp = s.substring(i)+s.substring(0,i);
-            if(res.compareTo(temp) > 0) {
+            if(temp.compareTo(res) < 0) {
                 res = temp;
             }
         }
