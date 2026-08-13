@@ -92,6 +92,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -175,6 +176,7 @@
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3310-remove-methods-from-project) |
 ## Linked List
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3310-remove-methods-from-project) |
 ## Sorting
@@ -221,6 +224,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1675-minimize-deviation-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1675-minimize-deviation-in-array) |
 ## Bucket Sort
@@ -285,4 +289,12 @@
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0899-orderly-queue) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
