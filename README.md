@@ -209,6 +209,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0743-network-delay-time) |
+| [1791-find-center-of-star-graph](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1791-find-center-of-star-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3310-remove-methods-from-project) |
 ## Sorting
