@@ -64,6 +64,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1563-stone-game-v](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1563-stone-game-v) |
 | [1675-minimize-deviation-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1675-minimize-deviation-in-array) |
 | [1711-count-good-meals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1711-count-good-meals) |
@@ -178,6 +179,7 @@
 | [0496-next-greater-element-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0636-exclusive-time-of-functions) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0769-max-chunks-to-make-sorted) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3412-find-mirror-score-of-a-string) |
 ## Monotonic Stack
 |  |
@@ -185,6 +187,7 @@
 | [0042-trapping-rain-water](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0769-max-chunks-to-make-sorted) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search Tree
 |  |
 | ------- |
