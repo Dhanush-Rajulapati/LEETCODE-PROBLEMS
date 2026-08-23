@@ -82,6 +82,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4024-nearest-available-drone](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/4024-nearest-available-drone) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3765-complete-prime-number](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3765-complete-prime-number) |
+| [4024-nearest-available-drone](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/4024-nearest-available-drone) |
 ## Simulation
 |  |
 | ------- |
