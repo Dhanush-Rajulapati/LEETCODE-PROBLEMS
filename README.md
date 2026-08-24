@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0899-orderly-queue](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0899-orderly-queue) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0739-daily-temperatures) |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0769-max-chunks-to-make-sorted) |
@@ -273,6 +276,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0402-remove-k-digits) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0769-max-chunks-to-make-sorted) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0984-string-without-aaa-or-bbb) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1433-check-if-a-string-can-break-another-string) |
