@@ -56,6 +56,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0198-house-robber) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0300-longest-increasing-subsequence) |
@@ -288,6 +290,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0402-remove-k-digits) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0769-max-chunks-to-make-sorted) |
