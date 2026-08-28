@@ -13,6 +13,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1711-count-good-meals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1711-count-good-meals) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2947-count-beautiful-substrings-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2947-count-beautiful-substrings-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -79,6 +80,7 @@
 | [1563-stone-game-v](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1563-stone-game-v) |
 | [1675-minimize-deviation-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1675-minimize-deviation-in-array) |
 | [1711-count-good-meals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1711-count-good-meals) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2012-sum-of-beauty-in-the-array) |
@@ -124,6 +126,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0743-network-delay-time) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
