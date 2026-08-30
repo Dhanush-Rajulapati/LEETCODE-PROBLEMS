@@ -85,6 +85,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2029-stone-game-ix](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2740-find-the-value-of-the-partition](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2740-find-the-value-of-the-partition) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -304,6 +305,7 @@
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1675-minimize-deviation-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1675-minimize-deviation-in-array) |
 | [2029-stone-game-ix](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
