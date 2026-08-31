@@ -32,6 +32,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0899-orderly-queue](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0899-orderly-queue) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0984-string-without-aaa-or-bbb) |
+| [1328-break-a-palindrome](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1328-break-a-palindrome) |
 | [1332-remove-palindromic-subsequences](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1332-remove-palindromic-subsequences) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -306,6 +307,7 @@
 | [0402-remove-k-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0402-remove-k-digits) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0769-max-chunks-to-make-sorted) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0984-string-without-aaa-or-bbb) |
+| [1328-break-a-palindrome](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1328-break-a-palindrome) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1675-minimize-deviation-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1675-minimize-deviation-in-array) |
 | [2029-stone-game-ix](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
