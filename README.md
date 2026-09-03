@@ -103,6 +103,7 @@
 | [3731-find-missing-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4024-nearest-available-drone](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/4024-nearest-available-drone) |
 ## Dynamic Programming
 |  |
@@ -172,6 +173,7 @@
 | [3765-complete-prime-number](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Number Theory
 |  |
 | ------- |
