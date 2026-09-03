@@ -14,6 +14,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1711-count-good-meals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1711-count-good-meals) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2947-count-beautiful-substrings-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2947-count-beautiful-substrings-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -127,6 +128,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0547-number-of-provinces](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0743-network-delay-time) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -144,6 +147,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Math
 |  |
 | ------- |
@@ -244,6 +248,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0743-network-delay-time) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3310-remove-methods-from-project) |
 ## Linked List
