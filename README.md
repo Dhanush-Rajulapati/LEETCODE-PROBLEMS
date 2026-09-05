@@ -108,6 +108,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3904-smallest-stable-index-ii) |
 | [4024-nearest-available-drone](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/4024-nearest-available-drone) |
 ## Dynamic Programming
 |  |
@@ -414,6 +415,7 @@
 | ------- |
 | [2947-count-beautiful-substrings-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2947-count-beautiful-substrings-i) |
 | [3903-smallest-stable-index-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3904-smallest-stable-index-ii) |
 ## Prime Factorization
 |  |
 | ------- |
