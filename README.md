@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0264-ugly-number-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
@@ -116,6 +117,7 @@
 | [0042-trapping-rain-water](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0322-coin-change) |
@@ -157,6 +159,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
+| [0264-ugly-number-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0279-perfect-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0877-stone-game) |
@@ -306,6 +309,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
