@@ -3,9 +3,9 @@ class Solution {
         int count = 0;
         for(char ch : s.toCharArray()) {
             if(ch == 'a' || ch == 'i' || ch == 'o' || ch == 'e' || ch == 'u') {
-                count++;
+                return true;
             }
         }
-        return !(count == 0);
+        return false;
     }
 }
