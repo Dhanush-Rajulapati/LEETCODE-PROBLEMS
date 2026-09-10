@@ -14,6 +14,7 @@
 | [0692-top-k-frequent-words](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1711-count-good-meals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1711-count-good-meals) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1743-restore-the-array-from-adjacent-pairs) |
@@ -89,6 +90,7 @@
 | [1406-stone-game-iii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1563-stone-game-v](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1563-stone-game-v) |
 | [1675-minimize-deviation-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1675-minimize-deviation-in-array) |
 | [1711-count-good-meals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1711-count-good-meals) |
@@ -307,6 +309,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2740-find-the-value-of-the-partition](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2740-find-the-value-of-the-partition) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -342,6 +345,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0692-top-k-frequent-words) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2029-stone-game-ix](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -354,6 +358,7 @@
 | [0984-string-without-aaa-or-bbb](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0984-string-without-aaa-or-bbb) |
 | [1328-break-a-palindrome](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1328-break-a-palindrome) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1675-minimize-deviation-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1675-minimize-deviation-in-array) |
 | [2029-stone-game-ix](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
