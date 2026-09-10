@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0264-ugly-number-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
@@ -70,6 +71,7 @@
 | [0198-house-robber](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -293,6 +295,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0769-max-chunks-to-make-sorted) |
@@ -316,6 +319,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -324,10 +328,12 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [2029-stone-game-ix](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -436,4 +442,12 @@
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3227-vowels-game-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
