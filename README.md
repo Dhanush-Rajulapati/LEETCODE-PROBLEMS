@@ -27,6 +27,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3412-find-mirror-score-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3731-find-missing-elements) |
 ## String
@@ -109,6 +110,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3452-sum-of-good-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -224,6 +226,7 @@
 | [1291-sequential-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1291-sequential-digits) |
 | [2947-count-beautiful-substrings-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2947-count-beautiful-substrings-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3765-complete-prime-number](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3765-complete-prime-number) |
 | [4024-nearest-available-drone](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/4024-nearest-available-drone) |
@@ -283,6 +286,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0002-add-two-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Union-Find
 |  |
 | ------- |
