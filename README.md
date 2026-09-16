@@ -191,6 +191,7 @@
 | [1563-stone-game-v](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2523-closest-prime-numbers-in-range) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2947-count-beautiful-substrings-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2947-count-beautiful-substrings-i) |
@@ -232,6 +233,7 @@
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1291-sequential-digits) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2947-count-beautiful-substrings-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2947-count-beautiful-substrings-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
