@@ -34,6 +34,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3731-find-missing-elements) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## String
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [3904-smallest-stable-index-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3904-smallest-stable-index-ii) |
 | [4024-nearest-available-drone](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/4024-nearest-available-drone) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
