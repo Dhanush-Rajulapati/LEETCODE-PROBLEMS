@@ -61,6 +61,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3227-vowels-game-in-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3227-vowels-game-in-a-string) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3412-find-mirror-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Sliding Window
@@ -255,6 +256,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2295-replace-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2295-replace-elements-in-an-array) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3412-find-mirror-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3498-reverse-degree-of-a-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
