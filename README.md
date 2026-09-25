@@ -100,6 +100,7 @@
 | [0877-stone-game](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0877-stone-game) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1260-shift-2d-grid](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1260-shift-2d-grid) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -293,6 +294,7 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0300-longest-increasing-subsequence) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Breadth-First Search
 |  |
@@ -341,6 +343,7 @@
 | [0692-top-k-frequent-words](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0769-max-chunks-to-make-sorted) |
 | [0899-orderly-queue](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0899-orderly-queue) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
