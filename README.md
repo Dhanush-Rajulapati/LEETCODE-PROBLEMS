@@ -21,6 +21,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1711-count-good-meals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1711-count-good-meals) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2295-replace-elements-in-an-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2947-count-beautiful-substrings-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2947-count-beautiful-substrings-i) |
@@ -52,6 +53,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -111,6 +113,7 @@
 | [1675-minimize-deviation-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1675-minimize-deviation-in-array) |
 | [1711-count-good-meals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1711-count-good-meals) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2012-sum-of-beauty-in-the-array) |
