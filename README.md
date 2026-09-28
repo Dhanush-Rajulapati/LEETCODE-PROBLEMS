@@ -53,6 +53,7 @@
 | [1332-remove-palindromic-subsequences](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -281,6 +282,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0769-max-chunks-to-make-sorted) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3412-find-mirror-score-of-a-string) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3561-resulting-string-after-adjacent-removals) |
@@ -521,4 +523,5 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
