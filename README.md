@@ -109,6 +109,7 @@
 | [0877-stone-game](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0877-stone-game) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1260-shift-2d-grid](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1260-shift-2d-grid) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1406-stone-game-iii) |
@@ -168,6 +169,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0416-partition-equal-subset-sum) |
 | [0845-longest-mountain-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0877-stone-game) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1406-stone-game-iii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1563-stone-game-v) |
@@ -369,6 +371,7 @@
 | [0692-top-k-frequent-words](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0769-max-chunks-to-make-sorted) |
 | [0899-orderly-queue](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0899-orderly-queue) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -421,6 +424,7 @@
 | [0402-remove-k-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0402-remove-k-digits) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0769-max-chunks-to-make-sorted) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0984-string-without-aaa-or-bbb) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1328-break-a-palindrome](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1328-break-a-palindrome) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
