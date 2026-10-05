@@ -22,6 +22,7 @@
 | [1711-count-good-meals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1711-count-good-meals) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2182-construct-string-with-repeat-limit) |
 | [2295-replace-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2295-replace-elements-in-an-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2947-count-beautiful-substrings-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2947-count-beautiful-substrings-i) |
@@ -62,6 +63,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2182-construct-string-with-repeat-limit) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -410,6 +412,7 @@
 | [0743-network-delay-time](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1675-minimize-deviation-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1675-minimize-deviation-in-array) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2182-construct-string-with-repeat-limit) |
 | [2233-maximum-product-after-k-increments](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2233-maximum-product-after-k-increments) |
 ## Bucket Sort
 |  |
@@ -425,6 +428,7 @@
 | [0692-top-k-frequent-words](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2029-stone-game-ix](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2182-construct-string-with-repeat-limit) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -441,6 +445,7 @@
 | [1675-minimize-deviation-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1675-minimize-deviation-in-array) |
 | [2029-stone-game-ix](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2182-construct-string-with-repeat-limit) |
 | [2233-maximum-product-after-k-increments](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2233-maximum-product-after-k-increments) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
