@@ -142,6 +142,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3618-split-array-by-prime-indices](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3618-split-array-by-prime-indices) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3731-find-missing-elements) |
@@ -241,6 +242,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3618-split-array-by-prime-indices](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3618-split-array-by-prime-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -258,6 +260,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2523-closest-prime-numbers-in-range) |
 | [2947-count-beautiful-substrings-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2947-count-beautiful-substrings-i) |
+| [3618-split-array-by-prime-indices](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3618-split-array-by-prime-indices) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
