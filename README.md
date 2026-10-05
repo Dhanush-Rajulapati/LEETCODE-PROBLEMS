@@ -83,6 +83,7 @@
 | [0076-minimum-window-substring](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -116,6 +117,7 @@
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1406-stone-game-iii) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -410,6 +412,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0743-network-delay-time) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1675-minimize-deviation-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1675-minimize-deviation-in-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2182-construct-string-with-repeat-limit) |
@@ -459,6 +462,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1675-minimize-deviation-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1675-minimize-deviation-in-array) |
 ## Counting Sort
 |  |
@@ -571,4 +575,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0022-generate-parentheses) |
+## Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
