@@ -134,6 +134,7 @@
 | [2059-minimum-operations-to-convert-number](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2059-minimum-operations-to-convert-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2233-maximum-product-after-k-increments) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2295-replace-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2295-replace-elements-in-an-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2740-find-the-value-of-the-partition](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2740-find-the-value-of-the-partition) |
@@ -391,6 +392,7 @@
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2740-find-the-value-of-the-partition](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2740-find-the-value-of-the-partition) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -450,6 +452,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2182-construct-string-with-repeat-limit) |
 | [2233-maximum-product-after-k-increments](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2233-maximum-product-after-k-increments) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
