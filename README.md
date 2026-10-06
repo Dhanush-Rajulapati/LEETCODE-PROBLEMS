@@ -52,6 +52,7 @@
 | [0692-top-k-frequent-words](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0856-score-of-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0856-score-of-parentheses) |
 | [0899-orderly-queue](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0899-orderly-queue) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0984-string-without-aaa-or-bbb) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -311,6 +312,7 @@
 | [0739-daily-temperatures](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -442,6 +444,7 @@
 | [0134-gas-station](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0402-remove-k-digits) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0769-max-chunks-to-make-sorted) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0984-string-without-aaa-or-bbb) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1328-break-a-palindrome](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1328-break-a-palindrome) |
@@ -571,6 +574,7 @@
 | [0022-generate-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
