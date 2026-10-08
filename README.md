@@ -142,6 +142,7 @@
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2295-replace-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2295-replace-elements-in-an-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2740-find-the-value-of-the-partition](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2740-find-the-value-of-the-partition) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -545,6 +546,7 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2947-count-beautiful-substrings-i) |
 | [3903-smallest-stable-index-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3904-smallest-stable-index-ii) |
