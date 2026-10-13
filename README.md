@@ -160,6 +160,7 @@
 | [3618-split-array-by-prime-indices](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3618-split-array-by-prime-indices) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3731-find-missing-elements) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -415,6 +416,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -475,6 +477,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
