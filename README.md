@@ -27,6 +27,7 @@
 | [2182-construct-string-with-repeat-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2182-construct-string-with-repeat-limit) |
 | [2295-replace-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2295-replace-elements-in-an-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2947-count-beautiful-substrings-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2947-count-beautiful-substrings-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -146,6 +147,7 @@
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2295-replace-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2295-replace-elements-in-an-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2740-find-the-value-of-the-partition](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2740-find-the-value-of-the-partition) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -254,6 +256,7 @@
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2523-closest-prime-numbers-in-range) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2947-count-beautiful-substrings-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2947-count-beautiful-substrings-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-vowels-game-in-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3227-vowels-game-in-a-string) |
@@ -477,6 +480,7 @@
 | [2182-construct-string-with-repeat-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2182-construct-string-with-repeat-limit) |
 | [2233-maximum-product-after-k-increments](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2233-maximum-product-after-k-increments) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
