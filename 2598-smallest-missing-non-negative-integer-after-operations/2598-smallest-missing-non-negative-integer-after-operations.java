@@ -6,9 +6,14 @@ class Solution {
             freq[idx]++;
         }
         int idx = 0;
-        while(freq[idx%value] > 0) {
-            freq[idx%value]--;
-            idx++;
+        while(true) {
+            if(freq[idx%value] > 0){
+                freq[idx%value]--;
+                idx++;
+            }
+            else {
+                break;
+            }
         }
         return idx;
     }
