@@ -149,6 +149,7 @@
 | [2233-maximum-product-after-k-increments](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2233-maximum-product-after-k-increments) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2295-replace-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2295-replace-elements-in-an-array) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -493,6 +494,7 @@
 |  |
 | ------- |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Ordered Set
@@ -580,6 +582,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3227-vowels-game-in-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3227-vowels-game-in-a-string) |
 ## Divide and Conquer
 |  |
