@@ -64,6 +64,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1328-break-a-palindrome](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1328-break-a-palindrome) |
 | [1332-remove-palindromic-subsequences](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -338,6 +339,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
