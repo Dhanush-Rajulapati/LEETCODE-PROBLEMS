@@ -88,6 +88,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3561-resulting-string-after-adjacent-removals) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
