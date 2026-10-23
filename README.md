@@ -170,6 +170,7 @@
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3618-split-array-by-prime-indices](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3618-split-array-by-prime-indices) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -508,6 +509,7 @@
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Ordered Set
 |  |
