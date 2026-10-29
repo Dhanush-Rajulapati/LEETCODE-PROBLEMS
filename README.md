@@ -211,6 +211,7 @@
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -238,6 +239,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -371,6 +373,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0300-longest-increasing-subsequence) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1300-sum-of-mutated-array-closest-to-target) |
@@ -394,6 +397,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0002-add-two-numbers) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0725-split-linked-list-in-parts](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0725-split-linked-list-in-parts) |
 | [1669-merge-in-between-linked-lists](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1669-merge-in-between-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -603,6 +607,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
