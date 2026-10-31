@@ -164,6 +164,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3452-sum-of-good-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
@@ -379,6 +380,7 @@
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
