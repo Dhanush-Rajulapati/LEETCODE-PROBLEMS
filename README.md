@@ -134,6 +134,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -315,6 +316,7 @@
 | [0189-rotate-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0845-longest-mountain-in-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0845-longest-mountain-in-array) |
 | [1332-remove-palindromic-subsequences](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1332-remove-palindromic-subsequences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
@@ -383,6 +385,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0300-longest-increasing-subsequence) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 ## Breadth-First Search
@@ -440,6 +443,7 @@
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
