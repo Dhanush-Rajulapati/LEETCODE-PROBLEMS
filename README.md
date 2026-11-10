@@ -175,6 +175,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3618-split-array-by-prime-indices](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3618-split-array-by-prime-indices) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -212,6 +213,7 @@
 | [1510-stone-game-iv](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1563-stone-game-v) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [3693-climbing-stairs-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3693-climbing-stairs-ii) |
 ## Tree
 |  |
 | ------- |
