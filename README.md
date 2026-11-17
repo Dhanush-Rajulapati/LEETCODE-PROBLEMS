@@ -109,6 +109,7 @@
 | [0001-two-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0078-subsets) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
@@ -526,6 +527,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0078-subsets) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -653,6 +655,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0078-subsets) |
 ## Queue
 |  |
 | ------- |
