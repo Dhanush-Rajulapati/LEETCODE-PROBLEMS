@@ -149,6 +149,7 @@
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2012-sum-of-beauty-in-the-array) |
@@ -274,6 +275,7 @@
 | [1510-stone-game-iv](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1563-stone-game-v) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2029-stone-game-ix) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -340,6 +342,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1260-shift-2d-grid) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2295-replace-elements-in-an-array) |
@@ -419,6 +422,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0002-add-two-numbers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Union-Find
 |  |
@@ -660,6 +664,7 @@
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
 | ------- |
