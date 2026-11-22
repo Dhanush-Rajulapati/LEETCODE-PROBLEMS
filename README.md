@@ -75,6 +75,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2182-construct-string-with-repeat-limit) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2264-largest-3-same-digit-number-in-string) |
