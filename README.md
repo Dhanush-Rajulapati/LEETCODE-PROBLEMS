@@ -137,6 +137,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -270,6 +271,7 @@
 | [0836-rectangle-overlap](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0877-stone-game) |
 | [0899-orderly-queue](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/0899-orderly-queue) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1492-the-kth-factor-of-n) |
@@ -611,6 +613,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2947-count-beautiful-substrings-i) |
@@ -678,4 +681,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Dhanush-Rajulapati/LEETCODE-PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
